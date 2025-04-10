@@ -15,9 +15,9 @@ RUN gui.py to start an application
 
 SCREENSHOTS and FAQ:
 1. To add a new employee you need to type all the required data first and press "Save new employee"
-(images/1.png)
-(images/2.png)
+![emty](images/1.png)
+![add](images/2.png)
 2. To update a user you need to select it first and then type in all the data. Once everything is filled, press update employee
-(images/3.png)
+![update](images/3.png)
 3. To remove an employee you need to select one and press "Delete employee"
-(images/4.png)
+![delete](images/4.png)
